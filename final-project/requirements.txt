@@ -1,0 +1,9 @@
+gradio
+requests
+smolagents
+pandas
+duckduckgo-search
+smolagents[litellm]
+markdownify
+langchain-community
+wikipedia
